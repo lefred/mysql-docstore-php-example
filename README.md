@@ -14,3 +14,5 @@ You can use the PHP embedded server:
 ```
 # php -S localhost:8000
 ```
+
+In case you use it on localhost like explained above, in Firefox, you need to change the following confg (`about:config`) to *false* : **security.csp.enable**
